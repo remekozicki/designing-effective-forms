@@ -1,0 +1,12 @@
+# Ignoruj folder IDE
+.idea/
+
+# Ignoruj zależności node
+node_modules/
+
+# Ignoruj pliki zależności (jeśli nie chcesz commitować)
+package-lock.json
+package.json
+
+# Logi i tymczasowe pliki
+*.log
